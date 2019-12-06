@@ -1,9 +1,13 @@
 import React from 'react';
 import ReactDOM from 'react-dom';
 
-const App = () => {
-  return <h1>My React App!!</h1>;
-};
+import App from './components/app.js';
 
-const root = document.getElementById('root');
-ReactDOM.render(<App />, root);
+function Main() {
+  return (
+    <App />
+  );
+}
+
+const rootElement = document.getElementById('root');
+ReactDOM.render(<Main />, rootElement);

@@ -1,27 +1,36 @@
-# l36a-connect
+# LAB - Connect 
 
+## Connect
+
+### Author: Jonathan Kimball
+
+### Links and Resources
 * [submission PR](https://github.com/401-advanced-javascript-kimball/l36a-connect/pull/1)
 * [travis](https://travis-ci.com/401-advanced-javascript-kimball/l36a-connect)
 
-# LAB - 
-
-## Project Name
-
-### Author: Student/Group Name
-
-### Links and Resources
-* [submission PR](http://xyz.com)
-* [travis](http://xyz.com)
-* [back-end](http://xyz.com) (when applicable)
-* [front-end](http://xyz.com) (when applicable)
-
-#### Documentation
-* [api docs](http://xyz.com) (API servers)
-* [jsdoc](http://xyz.com) (Server assignments)
-* [styleguide](http://xyz.com) (React assignments)
-
 ### Modules
-#### `modulename.js`
+
+#### src/index.js
+
+##### Exported Values and Methods
+
+#### src/store/actions.js
+
+##### Exported Values and Methods
+
+#### src/store/index.js
+
+##### Exported Values and Methods
+
+#### src/store/reducers.js
+
+##### Exported Values and Methods
+
+#### src/components/app.js
+
+##### Exported Values and Methods
+
+
 ##### Exported Values and Methods
 
 ###### `foo(thing) -> string`
